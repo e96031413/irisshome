@@ -1,0 +1,314 @@
+{
+  "settings": {
+    "name": "果然紅",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#37383e",
+        "#26272c",
+        "#ff6763"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.10.7",
+    "siteFonts": [],
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "uniqCompNum": 21,
+    "versionPublish": "4.10.7"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "果然紅農藝生活 | 自然農耕 ∙ 藝術裝置 ∙ 導覽解說 ∙ 在地文創 ∙ 風味料理",
+        "meta_descr": "半農半X的「果然紅鄉野學堂」，透過自己土地及自然農法所栽種的作物為推動環境教育的場域，常辦各式活動來推行友善土地的理念、加乘保護環境的觀念與實踐，讓參與者一起來體會大地母親無私滋養萬物的奧妙，結合自身專長運用美濃在地豐富多樣性的自然生態與人文景觀資源。庄頭文化導覽:美濃老街巡禮、美濃山下漫遊、鍾理和文學地景知旅。生態導覽：黃蝶翠谷雙溪樹木園生態導覽/夜間觀察、溪谷生態文學地景觀察。生活文化課程：客家醃漬料理、野菜採集料理、新住民文化料理、蝸牛課。農事體驗與農產：透過拔蘿蔔、挖地瓜、插秧、割稻，來體驗食物珍貴。創意生活美學DIY教學：稻草編織、種子吊飾、植物拓染、藍染、客家鐵線編。",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#d9534f",
+            "hamburgerColor": "#000"
+          },
+          "items": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-139x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">果然紅農藝生活 Turn Red Nature Life</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".navbar-brand": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/64629433-1646634772136572-7953774404167532544-o-1462x888.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Website Builder",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">For MAC</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/s-843x577.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "關於果然紅",
+          "caption": "<p>透過藝術美學的重新詮釋，逐漸將美學融入客家農村的生活，並透過農事體驗、在地文化生態導覽、綠食育課程以及藝文展演等，尤其是「小孩趣市集」以及「小地藝術日」為主要重頭戲，以客莊農村生活為基礎，連結孩童食農教育、藝術創作、展演活動等，讓來訪的人們可以更深入認識在地的客庄文化特色，進而愛上與認同美濃的農藝生活\n</p><p>永安老街門市為發展中心據點，向外延伸連結到各個現有場域及不同領域，以人為本，並維護當地生活樣貌與特色優先，期許能活水長流在此「永久安居」打造一個共存、共榮、共好、共享的社區樣貌。\n</p><p>半農半X的「果然紅農藝生活」、透過自己土地及自然農法所栽種的作物為推動環境教育與食農教育的場域，常辦各式活動來推行友善土地的理念、加乘保護環境的觀念與實踐，結合自身專長運用美濃在地豐富多樣性的自然生態與人文景觀資源，讓參與者一起來體會大地母親無私滋養萬物的奧妙。</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-7",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "我們的服務",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-a"
+        },
+        {
+          "text": "<p><b>庄頭文化導覽：</b>美濃老街巡禮、美濃山下漫遊、鍾理和文學地景知旅。\n</p><p><b>生態導覽</b>：黃蝶翠谷雙溪樹木園生態導覽/夜間觀察、溪谷生態文學地景觀察。\n</p><p><b>生活文化課程</b>：客家醃漬料理、野菜採集料理、新住民文化料理、蝸牛課。\n</p><p><b>農事體驗與農產</b>：透過拔蘿蔔、挖地瓜、插秧、割稻，來體驗食物珍貴。\n</p><p><b>創意生活美學DIY教學</b>：稻草編織、種子吊飾、植物拓染、藍染、客家鐵線編。\n</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-b"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/42112677-1438927449573973-3792346566342213632-n-960x720.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "<b>戶外教學活動</b>",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/42189882-1438927476240637-7282893524620541952-n-960x720.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "美濃湖",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/67826072-1688861551247227-6223733514022420480-n-960x720.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "生態探索",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-2",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d9534f",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": false,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "<b>分享果然紅~</b>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-4",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.376416875161!2d120.5408957149655!3d22.89948298501565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e41f1ba10c499%3A0xc677c25e28859592!2zODQz6auY6ZuE5biC576O5r-D5Y2A5rC45a6J6LevMjAx6Jmf!5e0!3m2!1szh-TW!2stw!4v1565313213419!5m2!1szh-TW!2stw\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+              "placeId": "iframe",
+              "state": "ok"
+            }
+          },
+          "text1": "<b>地址</b><br>總部：高雄市美濃區廣林里廣福街152巷60-5號<br><b><br>永安店：高雄市美濃區永安路201號</b><br><br>\n<strong>聯絡方式</strong><br>\nEmail：iris808079@gmail.com<br>LINE：iris808079<br>電話：0982-249197<br><br>",
+          "text2": "<b>連結</b><br><ul><li><a href=\"http://iris808079.blogspot.com/\">果然紅鄉野學堂&nbsp;</a></li><li><a href=\"https://www.facebook.com/irisshome/\">果然紅粉絲專頁</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-6"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "本網站由<a href=\"https://www.prospect-service.com/web_design/index.html\">聯欣發網頁設計</a>維護",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-5"
+        }
+      ]
+    }
+  }
+}
